@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tutorial 07</string>
+    <string name="register">register</string>
+    <string name="enter_first_name">enter_first_name</string>
+    <string name="first_name">first_name</string>
+    <string name="enter_last_name">enter_last_name</string>
+    <string name="last_name">last_name</string>
+    <string name="username">username</string>
+    <string name="enter_email">enter_email</string>
+    <string name="password">password</string>
+    <string name="enter_password">enter_password</string>
+    <string name="branch_ce_it">branch_ce_it</string>
+    <string name="general">general</string>
+    <string name="ce_it">ce_it</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="status">status</string>
+    <string name="login">login</string>
+    <string name="not_a_user_register_here">Not a user ? Register here</string>
+    <string name="welcome">Welcome</string>
+    <string-array name="city">
+        <item>Rajkot</item>
+        <item>Surat</item>
+        <item>Jamnagar</item>
+        <item>Junagadh</item>
+        <item>Gandhinagar</item>
+        <item>Bhavnagar</item>
+        <item>Vadodara</item>
+        <item>Ahmedabad</item>
+    </string-array>
+</resources>
